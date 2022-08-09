@@ -37,12 +37,14 @@ for i in range(0, len(to_sort)):
         temp.append("ANU")
     a = to_sort[f'{i}']['degree']
     a = json.dumps(a)
-    a = "".join(a)
-    a = a.strip(" '[{:,")
-    a = a.split("name")[1]
-    a = a.split('"}')[0]
-    a = a.strip('": ')
-    temp.append(a)
+    if "name" in a:
+        a = a.strip(" '[{:,")
+        a = a.split("name")[1]
+        a = a.split('"}')[0]
+        a = a.strip('": ')
+        temp.append(a)
+    else:
+        temp.append("N/A")
     temp.append(to_sort[f'{i}']['image_url'])
     sorted_list.append(temp)
 
@@ -114,3 +116,6 @@ for i in range(len(sorted_list)):
         response = requests.post(url, json=payload, headers=headers)
 
         print("Piping: ",sorted_list[i][0],sorted_list[i][1],sorted_list[i][2],sorted_list[i][3],sorted_list[i][4],"into Notion DB")
+
+r = requests.get('https://app.chequptime.com/webhook-heartbeat/e7ed982dba54caf7cb498c2ca31bed86')
+print(r.status_code)

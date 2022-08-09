@@ -101,7 +101,7 @@
         "is_private": true,
         "is_receive_chalkie_request": false,
         "is_verified": true,
-        "is_visible": false,
+        "is_visible": true,
         "name": "QA Account",
         "pending_ids": [],
         "profile_color": "1",
@@ -164,9 +164,10 @@
             }
         ],
         "email": "nisha16724@gmail.com",
-        "fcm_token": "fLvoym5rRwC3Fp-Dk0ARl9:APA91bE8vCn6Vx5YJhfct9VUF_iu0iuFU9Rr87xu14dEQCE1Qw8WB-kZ1ZNT5v9Oka_PNoQdZ0yg9L-bn_eB8k7asTzM9vhsyDP1c9hEVfxd6Z3ANztNSEnqMoZKgHLY9aL-ZhA0Q2PJ",
+        "fcm_token": "eeEOzNH1SkW78yQiiFArPU:APA91bGz49EVCjVeUeE9YSWfxQcCzLzXWA-48J5KrXXYwGA5jxWZCwEFK3CjvV0Z4lZPLa5JsnOSitO85y52UWOMiOOts9p93EomabAtTj8aU_NhAhw_C95uAfKL7QfAF2bzXGlFTmJC",
         "friend_ids": [
-            "OsNh5lCvIBiZWSVq3oq6"
+            "OsNh5lCvIBiZWSVq3oq6",
+            "xJJzgABPoMS2qQPlAdiX"
         ],
         "gpa": "",
         "id": "QoPKK7tfrf3iVeiv6Mrh",
@@ -274,6 +275,36 @@
         "wam": ""
     },
     "7": {
+        "auth_id": "N5Y2D5m5leRAIpSCjQJAzQyS5Di1",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-09T02:11:43.020",
+        "degree": [],
+        "email": "u6634859@anu.edu.au",
+        "fcm_token": "c0-tUnU7TLGAddUj0ayepe:APA91bEmKR2yJrbqcFgke6x6IjGJw6acuwY0iN22udOvVISopJ0j3sY1ueuzTTfzjYsiJzRKXVGPQrOccFASi9yC8N3BwLN3gVjbP-1QK6iQUCeKJd4-YiX94hhZyCd-xN7pz56GvTJF",
+        "friend_ids": [],
+        "gpa": "",
+        "id": null,
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F6170f2c4-efcb-4a80-a38f-19ed2192ae08?alt=media&token=971db4b2-f803-4763-99c8-f9d293ed7fb7",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "Xin Shen",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "850810",
+        "university_email": "u6634859@anu.edu.au",
+        "university_name": "",
+        "updated_at": "2022-08-09T02:11:43.022",
+        "wam": ""
+    },
+    "8": {
         "auth_id": "zz8Wrq5mpcPSHoYHkBe69Ve6J5D3",
         "chat_ids": [],
         "country_name": "Australia",
@@ -286,9 +317,7 @@
         ],
         "email": "vishaal.varma2000@gmail.com",
         "fcm_token": "eprXvaHwTgqw_VnQJ0Bgj1:APA91bHtbn2ImdxieOr2Xd-o8GhfvyY31Un93gR7nPOnh5qykg0W2Macgti7Z6qMJsHo6YbiMZeIzE6vLH-Yqk-2XAAKyllojsMBterSPY874eUNhZFPkfKyJi3Wxuva8fgDDSfQ9jYa",
-        "friend_ids": [
-            "hkAdKMQvSPiIf4iNhEn1"
-        ],
+        "friend_ids": [],
         "gpa": "",
         "id": "bCGNujUqYlPPAoSinHQd",
         "image_url": "https://lh3.googleusercontent.com/a-/AFdZuco7p3Lf-9qbsYiO_lS9Aoy-VDIYtGN-Bq8E1VT9dEw=s96-c",
@@ -310,7 +339,7 @@
         "updated_at": "2022-08-03T08:33:45.187",
         "wam": ""
     },
-    "8": {
+    "9": {
         "auth_id": "9c6H7YYiMaWVr05jwOTwSYjdIL02",
         "chat_ids": [],
         "country_name": "Australia",
@@ -345,7 +374,7 @@
         "updated_at": "2022-07-27T15:55:57.565",
         "wam": ""
     },
-    "9": {
+    "10": {
         "auth_id": "tAppZWccgRRmWMqm4e0s3Fc4DQF2",
         "chat_ids": [],
         "country_name": "Australia",
@@ -362,9 +391,7 @@
         ],
         "email": "vish@getchalkie.com",
         "fcm_token": "dB6lPhzZQMmkGNz8qNZwZt:APA91bGmV4pWMTAhZ1-jNijF_6EHBYtXSPGKhaMXtI7TNnniZrwKtmE13bdPA45CBiRyYLhiTPFAXSMW2fvU-ZZ1PUD4szrTjBWL-FVEQ4kLNPES68N-4UvyTNmOI0SDg7c5MflpuZld",
-        "friend_ids": [
-            "bCGNujUqYlPPAoSinHQd"
-        ],
+        "friend_ids": [],
         "gpa": "",
         "id": "hkAdKMQvSPiIf4iNhEn1",
         "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F7c9a28a3-2372-42de-9afa-fce911135125?alt=media&token=32f02fdb-23f1-48a5-b989-49ff4fc96a0b",
@@ -373,11 +400,11 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
-        "is_verified": false,
-        "is_visible": true,
+        "is_verified": true,
+        "is_visible": false,
         "name": "Vishaal Varma",
         "pending_ids": [],
-        "profile_color": "1",
+        "profile_color": "3",
         "requested_ids": [],
         "student_type": "University",
         "university_OTP": "276125",
@@ -386,7 +413,7 @@
         "updated_at": "2022-07-27T11:39:43.052",
         "wam": ""
     },
-    "10": {
+    "11": {
         "auth_id": "BFBqGsl8udXgxlaRrL7noUYHWjT2",
         "chat_ids": [],
         "country_name": "Australia",
@@ -402,8 +429,10 @@
             }
         ],
         "email": "vishalgoti35@gmail.com",
-        "fcm_token": "fLvoym5rRwC3Fp-Dk0ARl9:APA91bE8vCn6Vx5YJhfct9VUF_iu0iuFU9Rr87xu14dEQCE1Qw8WB-kZ1ZNT5v9Oka_PNoQdZ0yg9L-bn_eB8k7asTzM9vhsyDP1c9hEVfxd6Z3ANztNSEnqMoZKgHLY9aL-ZhA0Q2PJ",
-        "friend_ids": [],
+        "fcm_token": "eeEOzNH1SkW78yQiiFArPU:APA91bGz49EVCjVeUeE9YSWfxQcCzLzXWA-48J5KrXXYwGA5jxWZCwEFK3CjvV0Z4lZPLa5JsnOSitO85y52UWOMiOOts9p93EomabAtTj8aU_NhAhw_C95uAfKL7QfAF2bzXGlFTmJC",
+        "friend_ids": [
+            "QoPKK7tfrf3iVeiv6Mrh"
+        ],
         "gpa": "",
         "id": "xJJzgABPoMS2qQPlAdiX",
         "image_url": "https://lh3.googleusercontent.com/a-/AFdZucoYMrifyhA3S5ijxHfA-9qYIhMvKIkLrEp2oCVj=s96-c",
@@ -412,8 +441,8 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
-        "is_verified": false,
-        "is_visible": true,
+        "is_verified": true,
+        "is_visible": false,
         "name": "Nisha",
         "pending_ids": [],
         "profile_color": "1",
@@ -425,7 +454,7 @@
         "updated_at": "2022-07-29T16:55:23.639",
         "wam": ""
     },
-    "11": {
+    "12": {
         "auth_id": "3G3Kvvg2bPfaq3kriBGMH9Dhpo53",
         "chat_ids": [
             {
@@ -442,7 +471,7 @@
             }
         ],
         "email": "harikrushn.180410116044@gmail.com",
-        "fcm_token": "dUMNd6R1Qe2Zb8B_Z44D6S:APA91bHSFj3tg3IFD0dCxRsGbcvWccDlg3bqqP5OmLHM65-2wzpIQHHqKqeR975hXEwsI6d-LkKvQquobLJicRR-ogWdBxDU8yUfXMaBpwojsblGL41RZqSToIPguueRxTQUt9Vknjtg",
+        "fcm_token": "fJzgOuZYTnmEJSxEK-fZCa:APA91bFehdiJEveZyI1xauoECrEAWhJLI3tWyZMZXB5BpmRISzZX9uu2lsFXrT3ZvCEN6fls_9vyddDy6lAIxR_CeYVm3WwaLT-PMmLFqXHwiiqoYvpBWj40CJ1QfXhdvb85eyY8kPb1",
         "friend_ids": [
             "RGbzGbzNlFUEcB1Kjoom"
         ],
@@ -455,10 +484,10 @@
         "is_private": true,
         "is_receive_chalkie_request": false,
         "is_verified": true,
-        "is_visible": true,
+        "is_visible": false,
         "name": "044_Harikrushn",
         "pending_ids": [],
-        "profile_color": "4",
+        "profile_color": "2",
         "requested_ids": [],
         "student_type": "University",
         "university_OTP": "166983",
