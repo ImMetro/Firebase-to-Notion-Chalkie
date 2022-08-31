@@ -1,5 +1,72 @@
 {
     "0": {
+        "auth_id": "iYLSSBXMtkS9cMfdnLqysUnxoGj1",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-16T17:45:41.591",
+        "degree": [
+            {
+                "id": "07wIQs7CIWxJJSFfIoRU",
+                "name": "Bachelor of Actuarial Studies"
+            }
+        ],
+        "email": "sitest0104@gmail.com",
+        "fcm_token": "eUQHUosHQ-uKhiElVQ1iO7:APA91bH_PGW0NN_Wb7seJUUE_9NgUSGEOevbO18ZAxR0z8gGJnP7YeBw9vmbjTlmsDGGrelNHg-b9MwK0BgJdfd-gf76yG-lknimcs-zPlwFrHvRgYtzXoNq0Z6_Fp5A3c_oa5N4_UD5",
+        "friend_ids": [],
+        "gpa": "",
+        "id": "252fh8Q4T7i7nUhGgucM",
+        "image_url": "https://lh3.googleusercontent.com/a/AItbvmkqBXNe5YWkBsAuCsp0xYKU3HEokbMw24Ag7S2Z=s96-c",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": true,
+        "name": "QA Account",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "698363",
+        "university_email": "gmail@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-16T17:45:41.648",
+        "wam": ""
+    },
+    "1": {
+        "auth_id": "ZHLNxcgqYoZp7dP5Cx7PRSBIJKG2",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T17:23:31.867",
+        "degree": [],
+        "email": "benmclean007@gmail.com",
+        "fcm_token": "exbclaZzSrKt8T6Jb3B6Sh:APA91bERB9W5R8PIrNM6AygiXrghaFqPkdWEzq8OcR1Yd7QJHiJZjPJ7j3H6l64Kht30aqPz8KZb-M6ZubLlZsh2ZqJeztLcIdrlNFHEQfw-PW5_ZX_tIo58PZ9NmvNLwFAYDkftTl9e",
+        "friend_ids": [],
+        "gpa": "",
+        "id": "8HnWE9d2DSMljWrlNHnj",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F75322af0-d221-4bc1-b137-e9bec8ad7f63?alt=media&token=1cf7d6ef-e137-47b1-bf62-68c44fce9272",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "Ben McLean",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "u6673420@anu.edu.au",
+        "university_name": "",
+        "updated_at": "2022-08-12T17:23:31.868",
+        "wam": ""
+    },
+    "2": {
         "auth_id": "C0DrX83AabbNaSCFPfuNTAFF2xp1",
         "chat_ids": [],
         "country_name": "Australia",
@@ -21,6 +88,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": false,
         "is_visible": true,
         "name": "Abhay Vaghani",
@@ -34,7 +102,40 @@
         "updated_at": "2022-08-02T12:18:56.720",
         "wam": ""
     },
-    "1": {
+    "3": {
+        "auth_id": "IvdHWlFVeYQXsY01Gn9v6SkDyPv1",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T13:04:40.575",
+        "degree": [],
+        "email": "vivek.s@squareinfosoft.com",
+        "fcm_token": "chPwBQn_R5ChYBcd6rqaH0:APA91bFay5UTWeXxbXXXsCbIxOnggdPbIWZjg6aPDWhwM4_afv9F8-Y1degiPSxPDHWabUVj1oUu4k5cg418-4JWU0rxWYNy_bKVvCy4ykGlZqtd9TLYtVwrFR554HEg5Mayy713jcru",
+        "friend_ids": [],
+        "gpa": "",
+        "id": "Dmf08Q3iD7M4bG7FOUka",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F7ddd60d0-32a3-4ad3-85e5-ba7c487e296f?alt=media&token=eaaa5b97-73ea-4f84-8e0d-156767bfd67a",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "vivek s",
+        "pending_ids": [
+            "TAGWNTxak41NP0Q2Tvjz"
+        ],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "211728",
+        "university_email": "vivek.s@squareinfosoft.com",
+        "university_name": "",
+        "updated_at": "2022-08-12T13:04:40.591",
+        "wam": ""
+    },
+    "4": {
         "auth_id": "ys93cvF6c0gMwO5cWa960PHPCuR2",
         "chat_ids": [
             {
@@ -63,6 +164,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
         "is_visible": false,
         "name": "120_Trupesh",
@@ -76,9 +178,14 @@
         "updated_at": "2022-07-18T16:16:37.997",
         "wam": ""
     },
-    "2": {
+    "5": {
         "auth_id": "ov1UcJG9T3btNnJBcVn02xZhQCm1",
-        "chat_ids": [],
+        "chat_ids": [
+            {
+                "chat_id": "36bdd06f-ea7f-4dbd-981d-6565bf578171",
+                "user_id": "yUbVJaJMtkEUodoR0TFA"
+            }
+        ],
         "country_name": "Australia",
         "created_at": "2022-07-25T16:54:54.683",
         "degree": [
@@ -88,9 +195,10 @@
             }
         ],
         "email": "squaretest0104@gmail.com",
-        "fcm_token": "fGpFfjKlQDSgmWM9y69pNz:APA91bFTmb2f5sDWolnhuiHvCyCquCVgDZsq1rZrSJF6V0trvXScISvBDiZKvWv4PnrJ19yDfu2XnKTA0b6fIWa2Q42rzARUYgA02913zh-ZOtqsH1xVhlB5adE78s05pRnP2WAyCqUc",
+        "fcm_token": "fsS0aK4NVUzXuCQ_W_gfl3:APA91bGLTsukLGKpVuoDkvZ9liA3TiJBgVRpcJ23NlkDtaD3qrM2ZI0qhJ-DxVu69g_q5x8KoEUS8D2_IFYK_Ew546sjaEiAxEgt5Tp20o2ha0F_INmcNPpgYxDhdp71zUsmEXhy4Ny2",
         "friend_ids": [
-            "QoPKK7tfrf3iVeiv6Mrh"
+            "QoPKK7tfrf3iVeiv6Mrh",
+            "u9f9SWMgejwvuQL1A7jX"
         ],
         "gpa": "",
         "id": "OsNh5lCvIBiZWSVq3oq6",
@@ -100,12 +208,15 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
         "is_visible": true,
         "name": "QA Account",
         "pending_ids": [],
         "profile_color": "1",
-        "requested_ids": [],
+        "requested_ids": [
+            "XEk3Tcoqk1qgdSnd8YlN"
+        ],
         "student_type": "University",
         "university_OTP": "905716",
         "university_email": "harikrushn@gmail.com",
@@ -113,7 +224,7 @@
         "updated_at": "2022-07-25T16:54:54.687",
         "wam": ""
     },
-    "3": {
+    "6": {
         "auth_id": "C8RUVzxaD7Yt5srPxPj6m4MTJ1r2",
         "chat_ids": [],
         "country_name": "Australia",
@@ -135,6 +246,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": false,
         "is_visible": false,
         "name": "Vish Varma",
@@ -148,7 +260,7 @@
         "updated_at": "2022-07-30T10:14:19.911",
         "wam": ""
     },
-    "4": {
+    "7": {
         "auth_id": "3qXKvyTybaNcvhf85qXrwKk92gh1",
         "chat_ids": [],
         "country_name": "Australia",
@@ -177,6 +289,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
         "is_visible": true,
         "name": "Nisha Patel",
@@ -190,12 +303,16 @@
         "updated_at": "2022-07-29T15:33:42.150",
         "wam": ""
     },
-    "5": {
+    "8": {
         "auth_id": "wcQLGaCv4KXpVx9zIDvKucSkpoJ2",
         "chat_ids": [
             {
                 "chat_id": "58cfba6c-0fbb-4721-9261-260ba1896cb2",
                 "user_id": "yUbVJaJMtkEUodoR0TFA"
+            },
+            {
+                "chat_id": "5e623f1c-f3d5-4a09-b8d5-1fcd7df57b4f",
+                "user_id": "TAGWNTxak41NP0Q2Tvjz"
             }
         ],
         "country_name": "Australia",
@@ -207,9 +324,10 @@
             }
         ],
         "email": "jonnybhai292000@gmail.com",
-        "fcm_token": "de8B-_djTVqdyrKGyTXgji:APA91bF_Yq_hRzdwEZmHSfUY7SYts0pxpqhtgG8TACMByGChbYsWB7IqKHoOi5M0fpmjEN8H3R4rc-M3kT7WYK3zPMgT7mCvTkAD7KfV-OVVxeGcR4gMTvZiL_hfCL4HV5tEKGgHk2dQ",
+        "fcm_token": "fsS0aK4NVUzXuCQ_W_gfl3:APA91bGLTsukLGKpVuoDkvZ9liA3TiJBgVRpcJ23NlkDtaD3qrM2ZI0qhJ-DxVu69g_q5x8KoEUS8D2_IFYK_Ew546sjaEiAxEgt5Tp20o2ha0F_INmcNPpgYxDhdp71zUsmEXhy4Ny2",
         "friend_ids": [
-            "yUbVJaJMtkEUodoR0TFA"
+            "yUbVJaJMtkEUodoR0TFA",
+            "TAGWNTxak41NP0Q2Tvjz"
         ],
         "gpa": "",
         "id": "RGbzGbzNlFUEcB1Kjoom",
@@ -219,6 +337,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
         "is_visible": true,
         "name": "Jonny Bhai",
@@ -232,7 +351,101 @@
         "updated_at": "2022-08-03T10:01:17.888",
         "wam": ""
     },
-    "6": {
+    "9": {
+        "auth_id": "wcQLGaCv4KXpVx9zIDvKucSkpoJ2",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-17T11:38:19.157",
+        "degree": [
+            {
+                "id": "3tM8VIJyHLi1cFq3LdxR",
+                "name": "Bachelor of Advanced Computing (Honours)"
+            }
+        ],
+        "email": "jonnybhai292000@gmail.com",
+        "fcm_token": "eg9ejVE5TsWdmN2ehIfI0T:APA91bHedpMmJIrg_9-6Hsh-L-x88sWTLTQ9raOczAYmriXaOB07tZ6zK7TkKOCE6CnDXVdbSHvMnLnw7aNb86wARJQpah3X9M4k4n_q9nsnZXeXRLQRU-TvFX3vuEvMXTX8eynejtfV",
+        "friend_ids": [],
+        "gpa": "",
+        "id": null,
+        "image_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=144876394798320&height=50&width=50&ext=1663308497&hash=AeQyA1fHsr64K9djTAY",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "Jonny Bhai",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "812146",
+        "university_email": "jonny@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-17T11:38:19.192",
+        "wam": ""
+    },
+    "10": {
+        "auth_id": "cZkT3j7E4xXfT5j6eoMrIBvvfo52",
+        "chat_ids": [
+            {
+                "chat_id": "5e623f1c-f3d5-4a09-b8d5-1fcd7df57b4f",
+                "user_id": "RGbzGbzNlFUEcB1Kjoom"
+            },
+            {
+                "chat_id": "6081a01b-e715-4626-b9c7-af70c9ce8cce",
+                "user_id": "u9f9SWMgejwvuQL1A7jX"
+            },
+            {
+                "chat_id": "bd615d4f-487d-4ae0-bd68-35cdfdc50850",
+                "user_id": "yUbVJaJMtkEUodoR0TFA"
+            }
+        ],
+        "country_name": "Australia",
+        "created_at": "2022-08-16T10:57:09.369",
+        "degree": [
+            {
+                "id": "0CIgKIHLmlzOk7ds1PrG",
+                "name": "Bachelor of Asian Studies"
+            }
+        ],
+        "email": "tech@squareinfosoft.com",
+        "fcm_token": "fsS0aK4NVUzXuCQ_W_gfl3:APA91bGLTsukLGKpVuoDkvZ9liA3TiJBgVRpcJ23NlkDtaD3qrM2ZI0qhJ-DxVu69g_q5x8KoEUS8D2_IFYK_Ew546sjaEiAxEgt5Tp20o2ha0F_INmcNPpgYxDhdp71zUsmEXhy4Ny2",
+        "friend_ids": [
+            "wF7r9PPDSIjRZE8ztVAt",
+            "yUbVJaJMtkEUodoR0TFA",
+            "RGbzGbzNlFUEcB1Kjoom",
+            "u9f9SWMgejwvuQL1A7jX"
+        ],
+        "gpa": "",
+        "id": "TAGWNTxak41NP0Q2Tvjz",
+        "image_url": "",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": true,
+        "is_visible": true,
+        "name": "tech",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [
+            "XEk3Tcoqk1qgdSnd8YlN",
+            "Dmf08Q3iD7M4bG7FOUka",
+            "WOZMRzgQ5f8pCfpIeEex"
+        ],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "viveksavaliya7203@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-16T10:57:09.469",
+        "wam": ""
+    },
+    "11": {
         "auth_id": "lNXkrzVxzvUefoIcwm8r7NoG4sv2",
         "chat_ids": [
             {
@@ -261,10 +474,13 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": false,
         "is_visible": false,
         "name": "Trupesh Vaghasiya",
-        "pending_ids": [],
+        "pending_ids": [
+            "TAGWNTxak41NP0Q2Tvjz"
+        ],
         "profile_color": "1",
         "requested_ids": [],
         "student_type": "University",
@@ -274,7 +490,74 @@
         "updated_at": "2022-07-18T15:49:06.308",
         "wam": ""
     },
-    "7": {
+    "12": {
+        "auth_id": "YVBgfqOUBaT4zTBsqvGPBSw7EBD3",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T17:14:20.413",
+        "degree": [],
+        "email": "petezhao101@gmail.com",
+        "fcm_token": "djhQZwF8LE31lvjnCSarzp:APA91bHTPP350Nv4dyUG0JCZYbMuCLUfDW4HuwyT4e3ielJJmxXfRICu-5CoEdHQFD6j7FywESuXlPIMYXvkApRHCTAtlQTdM3r9tSBrY2VAuOqcPAvLncIBvaKftQ8x8KRQYtYJiGIo",
+        "friend_ids": [],
+        "gpa": "",
+        "id": "WrlVycBLdF6qWS7fZr3X",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F4485462b-8ff6-47c3-b62c-1344de893ffa?alt=media&token=a9024053-93fe-41eb-a1a4-948b89b711ad",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "peter zhao",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "u7122447@anu.edu.au",
+        "university_name": "",
+        "updated_at": "2022-08-12T17:14:20.414",
+        "wam": ""
+    },
+    "13": {
+        "auth_id": "NCOELXDXGTgdiZeshJDN4rFt1tu2",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T16:56:09.524",
+        "degree": [],
+        "email": "test@gmail.com",
+        "fcm_token": "eFUCRnf_S1yi58-brzlHCG:APA91bH58OGiDcEEES-uMi0LCZ4luEiGAB3UTRX2wuflg-3XebqNV14u60QKeplOFL-0ezGMhw742-dYR-HGu6ne-0zBsiutxi9pcXjW77EPn8PDiRvWckAVyV_FKVZ4qRLFVJYKfMOv",
+        "friend_ids": [
+            "u9f9SWMgejwvuQL1A7jX"
+        ],
+        "gpa": "",
+        "id": "XEk3Tcoqk1qgdSnd8YlN",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2Fdd269382-4694-400c-9e80-b7c8de00fa47?alt=media&token=a137af78-0cb9-4f0c-9a2f-a4c5dc8f4c05",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": true,
+        "name": "Test test",
+        "pending_ids": [
+            "OsNh5lCvIBiZWSVq3oq6",
+            "TAGWNTxak41NP0Q2Tvjz"
+        ],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "test@gmail.com",
+        "university_name": "",
+        "updated_at": "2022-08-12T16:56:09.525",
+        "wam": ""
+    },
+    "14": {
         "auth_id": "N5Y2D5m5leRAIpSCjQJAzQyS5Di1",
         "chat_ids": [],
         "country_name": "Australia",
@@ -284,17 +567,20 @@
         "fcm_token": "c0-tUnU7TLGAddUj0ayepe:APA91bEmKR2yJrbqcFgke6x6IjGJw6acuwY0iN22udOvVISopJ0j3sY1ueuzTTfzjYsiJzRKXVGPQrOccFASi9yC8N3BwLN3gVjbP-1QK6iQUCeKJd4-YiX94hhZyCd-xN7pz56GvTJF",
         "friend_ids": [],
         "gpa": "",
-        "id": null,
+        "id": "YSlUsgpguBZyYkJdnCf9",
         "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F6170f2c4-efcb-4a80-a38f-19ed2192ae08?alt=media&token=971db4b2-f803-4763-99c8-f9d293ed7fb7",
         "is_degree_plan_public": false,
         "is_double_degree": false,
         "is_email_verified": false,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": false,
         "is_visible": false,
         "name": "Xin Shen",
-        "pending_ids": [],
+        "pending_ids": [
+            "hkAdKMQvSPiIf4iNhEn1"
+        ],
         "profile_color": "1",
         "requested_ids": [],
         "student_type": "University",
@@ -304,7 +590,7 @@
         "updated_at": "2022-08-09T02:11:43.022",
         "wam": ""
     },
-    "8": {
+    "15": {
         "auth_id": "zz8Wrq5mpcPSHoYHkBe69Ve6J5D3",
         "chat_ids": [],
         "country_name": "Australia",
@@ -326,10 +612,13 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": false,
         "is_visible": true,
         "name": "Vish Varma",
-        "pending_ids": [],
+        "pending_ids": [
+            "hkAdKMQvSPiIf4iNhEn1"
+        ],
         "profile_color": "1",
         "requested_ids": [],
         "student_type": "University",
@@ -339,42 +628,7 @@
         "updated_at": "2022-08-03T08:33:45.187",
         "wam": ""
     },
-    "9": {
-        "auth_id": "9c6H7YYiMaWVr05jwOTwSYjdIL02",
-        "chat_ids": [],
-        "country_name": "Australia",
-        "created_at": "2022-07-27T15:55:57.528",
-        "degree": [
-            {
-                "id": "0CIgKIHLmlzOk7ds1PrG",
-                "name": "Bachelor of Asian Studies"
-            }
-        ],
-        "email": "harikrushn1412@gmail.com",
-        "fcm_token": "cmE89njISy6Gypj6RKPMiL:APA91bFHYTP6xydRd2y8ur85EHZqeXXQYPx9JifeQAY1QBo1FjYa3ybBn6Z4Y2ad_UfvywXHtD-_6Mx7uzHzCxgAwMAOzmMMkuISeQ4FR50FR3HeCYnE0yTQOOfz0n2sCI8AVN3SrSYa",
-        "friend_ids": [],
-        "gpa": "",
-        "id": "fKt5OKHR62sgWysB2mAS",
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F5004c9f5-54b3-4bde-9f48-4a4e7c3f33bc?alt=media&token=79c7c0a4-cd15-4b51-b4bc-544b654a9486",
-        "is_degree_plan_public": false,
-        "is_double_degree": false,
-        "is_email_verified": true,
-        "is_private": true,
-        "is_receive_chalkie_request": false,
-        "is_verified": false,
-        "is_visible": false,
-        "name": "harikrushn moradiya",
-        "pending_ids": [],
-        "profile_color": "1",
-        "requested_ids": [],
-        "student_type": "University",
-        "university_OTP": "029142",
-        "university_email": "harikrushn1412@gmail.com",
-        "university_name": "The Australian National University",
-        "updated_at": "2022-07-27T15:55:57.565",
-        "wam": ""
-    },
-    "10": {
+    "16": {
         "auth_id": "tAppZWccgRRmWMqm4e0s3Fc4DQF2",
         "chat_ids": [],
         "country_name": "Australia",
@@ -394,18 +648,22 @@
         "friend_ids": [],
         "gpa": "",
         "id": "hkAdKMQvSPiIf4iNhEn1",
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F7c9a28a3-2372-42de-9afa-fce911135125?alt=media&token=32f02fdb-23f1-48a5-b989-49ff4fc96a0b",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F66722b6c-9919-4ce9-900f-b4b548a34bf5?alt=media&token=e0646869-0cba-43a9-8bd1-7d82b9b74f4f",
         "is_degree_plan_public": false,
         "is_double_degree": true,
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
-        "is_visible": false,
-        "name": "Vishaal Varma",
+        "is_visible": true,
+        "name": "Vish Varma",
         "pending_ids": [],
         "profile_color": "3",
-        "requested_ids": [],
+        "requested_ids": [
+            "YSlUsgpguBZyYkJdnCf9",
+            "bCGNujUqYlPPAoSinHQd"
+        ],
         "student_type": "University",
         "university_OTP": "276125",
         "university_email": "u6985840@anu.edu.au",
@@ -413,7 +671,158 @@
         "updated_at": "2022-07-27T11:39:43.052",
         "wam": ""
     },
-    "11": {
+    "17": {
+        "auth_id": "x6asMMCfjGMgha5vZUU9U84EjI33",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T16:24:24.289",
+        "degree": [],
+        "email": "admin@getchalkie.com",
+        "fcm_token": "fv-qzpT9QT6BpKCv4K8wt6:APA91bGhL74DHB3fDhAe582sVx8KLIShsufZBhhocNmVGFX6wt-aF5UtQ8vIKcAAgTa1b274HiJ3F_VKfuIqoPT0mZCrx7zhtICncED8Iz7Qx2nP5YkdnT_4D7LP5gQYu_Y045yUvgDj",
+        "friend_ids": [],
+        "gpa": "",
+        "id": "iESV1vvl5HcAKASv7arg",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2Fb08c385d-1a1f-4279-a09c-5ebc02a6322f?alt=media&token=0c93e5f1-3ac1-4e42-976a-df3ddcaa34e0",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": false,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "Jen Smith",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "u6985840@anu.edu.au",
+        "university_name": "",
+        "updated_at": "2022-08-12T16:24:24.289",
+        "wam": ""
+    },
+    "18": {
+        "auth_id": "LmJk0XciiXbyjIXVBlNUSbafHkn2",
+        "chat_ids": [
+            {
+                "chat_id": "6081a01b-e715-4626-b9c7-af70c9ce8cce",
+                "user_id": "TAGWNTxak41NP0Q2Tvjz"
+            }
+        ],
+        "country_name": "Australia",
+        "created_at": "2022-08-12T17:55:25.370",
+        "degree": [
+            {
+                "id": "07wIQs7CIWxJJSFfIoRU",
+                "name": "Bachelor of Actuarial Studies"
+            }
+        ],
+        "email": "test9@gmail.com",
+        "fcm_token": "fsS0aK4NVUzXuCQ_W_gfl3:APA91bGLTsukLGKpVuoDkvZ9liA3TiJBgVRpcJ23NlkDtaD3qrM2ZI0qhJ-DxVu69g_q5x8KoEUS8D2_IFYK_Ew546sjaEiAxEgt5Tp20o2ha0F_INmcNPpgYxDhdp71zUsmEXhy4Ny2",
+        "friend_ids": [
+            "XEk3Tcoqk1qgdSnd8YlN",
+            "yUbVJaJMtkEUodoR0TFA",
+            "TAGWNTxak41NP0Q2Tvjz",
+            "OsNh5lCvIBiZWSVq3oq6"
+        ],
+        "gpa": "",
+        "id": "u9f9SWMgejwvuQL1A7jX",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F74524935-5ba8-4d49-ae4f-c78dc3cad2fc?alt=media&token=10829204-f7fe-49b9-b34d-28725ef09a12",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": true,
+        "name": "test test",
+        "pending_ids": [],
+        "profile_color": "3",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "",
+        "university_email": "test9@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-12T17:55:25.370",
+        "wam": ""
+    },
+    "19": {
+        "auth_id": "a4t1nwkocYN4iJBnxhH73h4timg2",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-17T11:29:57.260",
+        "degree": [
+            {
+                "id": "BcdtXHh2eJyjZLD5W2vB",
+                "name": "Bachelor of Engineering (Honours)"
+            }
+        ],
+        "email": "harikrushn1412@gmail.com",
+        "fcm_token": "eg9ejVE5TsWdmN2ehIfI0T:APA91bHedpMmJIrg_9-6Hsh-L-x88sWTLTQ9raOczAYmriXaOB07tZ6zK7TkKOCE6CnDXVdbSHvMnLnw7aNb86wARJQpah3X9M4k4n_q9nsnZXeXRLQRU-TvFX3vuEvMXTX8eynejtfV",
+        "friend_ids": [],
+        "gpa": "",
+        "id": null,
+        "image_url": "https://lh3.googleusercontent.com/a/AItbvmk0_CtSTeseb1GPdrVBcUqSH95iKXzI9uDZpWBz=s96-c",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": true,
+        "is_verified": false,
+        "is_visible": true,
+        "name": "Harikrushn Moradiya",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "244204",
+        "university_email": "harikrushn@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-17T11:29:57.293",
+        "wam": ""
+    },
+    "20": {
+        "auth_id": "8v2JYbmJ6RQoS4ga36VYbKpjTUN2",
+        "chat_ids": [],
+        "country_name": "Australia",
+        "created_at": "2022-08-16T11:22:40.549",
+        "degree": [
+            {
+                "id": "3Mg97XklKM44g05VJuGc",
+                "name": "Bachelor of Languages"
+            }
+        ],
+        "email": "viveksavaliya7203@gmail.com",
+        "fcm_token": "fsS0aK4NVUzXuCQ_W_gfl3:APA91bGLTsukLGKpVuoDkvZ9liA3TiJBgVRpcJ23NlkDtaD3qrM2ZI0qhJ-DxVu69g_q5x8KoEUS8D2_IFYK_Ew546sjaEiAxEgt5Tp20o2ha0F_INmcNPpgYxDhdp71zUsmEXhy4Ny2",
+        "friend_ids": [
+            "TAGWNTxak41NP0Q2Tvjz"
+        ],
+        "gpa": "",
+        "id": "wF7r9PPDSIjRZE8ztVAt",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chalkieapp-261b7.appspot.com/o/image%2F3362714a-d495-475c-b633-2437efc56188?alt=media&token=8baac1d1-bd5d-4397-8538-77f8f00073f3",
+        "is_degree_plan_public": false,
+        "is_double_degree": false,
+        "is_email_verified": true,
+        "is_private": true,
+        "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
+        "is_verified": false,
+        "is_visible": false,
+        "name": "vivek test",
+        "pending_ids": [],
+        "profile_color": "1",
+        "requested_ids": [],
+        "student_type": "University",
+        "university_OTP": "140963",
+        "university_email": "viveksavaliya7203@gmail.com",
+        "university_name": "The Australian National University",
+        "updated_at": "2022-08-16T11:22:40.551",
+        "wam": ""
+    },
+    "21": {
         "auth_id": "BFBqGsl8udXgxlaRrL7noUYHWjT2",
         "chat_ids": [],
         "country_name": "Australia",
@@ -441,6 +850,7 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
         "is_visible": false,
         "name": "Nisha",
@@ -454,12 +864,20 @@
         "updated_at": "2022-07-29T16:55:23.639",
         "wam": ""
     },
-    "12": {
+    "22": {
         "auth_id": "3G3Kvvg2bPfaq3kriBGMH9Dhpo53",
         "chat_ids": [
             {
                 "chat_id": "58cfba6c-0fbb-4721-9261-260ba1896cb2",
                 "user_id": "RGbzGbzNlFUEcB1Kjoom"
+            },
+            {
+                "chat_id": "36bdd06f-ea7f-4dbd-981d-6565bf578171",
+                "user_id": "OsNh5lCvIBiZWSVq3oq6"
+            },
+            {
+                "chat_id": "bd615d4f-487d-4ae0-bd68-35cdfdc50850",
+                "user_id": "TAGWNTxak41NP0Q2Tvjz"
             }
         ],
         "country_name": "Australia",
@@ -471,9 +889,11 @@
             }
         ],
         "email": "harikrushn.180410116044@gmail.com",
-        "fcm_token": "fJzgOuZYTnmEJSxEK-fZCa:APA91bFehdiJEveZyI1xauoECrEAWhJLI3tWyZMZXB5BpmRISzZX9uu2lsFXrT3ZvCEN6fls_9vyddDy6lAIxR_CeYVm3WwaLT-PMmLFqXHwiiqoYvpBWj40CJ1QfXhdvb85eyY8kPb1",
+        "fcm_token": "eg9ejVE5TsWdmN2ehIfI0T:APA91bHedpMmJIrg_9-6Hsh-L-x88sWTLTQ9raOczAYmriXaOB07tZ6zK7TkKOCE6CnDXVdbSHvMnLnw7aNb86wARJQpah3X9M4k4n_q9nsnZXeXRLQRU-TvFX3vuEvMXTX8eynejtfV",
         "friend_ids": [
-            "RGbzGbzNlFUEcB1Kjoom"
+            "RGbzGbzNlFUEcB1Kjoom",
+            "u9f9SWMgejwvuQL1A7jX",
+            "TAGWNTxak41NP0Q2Tvjz"
         ],
         "gpa": "",
         "id": "yUbVJaJMtkEUodoR0TFA",
@@ -483,8 +903,9 @@
         "is_email_verified": true,
         "is_private": true,
         "is_receive_chalkie_request": false,
+        "is_user_deleted": false,
         "is_verified": true,
-        "is_visible": false,
+        "is_visible": true,
         "name": "044_Harikrushn",
         "pending_ids": [],
         "profile_color": "2",
