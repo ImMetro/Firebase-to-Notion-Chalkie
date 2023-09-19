@@ -67,7 +67,7 @@ for i in range(len(sorted_list)):
         }]
     }}
 
-    test_exist = requests.post("https://api.notion.com/v1/databases/b35659dddb6441d59683401712ff4916/query", json=payload, headers=headers)
+    test_exist = requests.post("https://api.notion.com/v1/databases/redaccted/query", json=payload, headers=headers)
     if (test_exist.status_code != 200):
         print(f'Error, API Code Status code: {test_exist.status_code}')
     if (('"results":[]' not in test_exist.text)):
